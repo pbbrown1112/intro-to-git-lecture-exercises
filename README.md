@@ -7,7 +7,7 @@
 | Roy          |               |
 | Stefan Sce.  |               |
 | Stefan Stro. |               |
-| Patrick      |               |
+| Patrick      |     Sushi     |
 | Hans         |               |
 | Hermann      |               |
 | Ariq         |               |
